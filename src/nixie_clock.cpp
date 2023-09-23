@@ -2,8 +2,10 @@
 #include <ezTime.h>
 #include <ESP8266WiFi.h>
 
-#define MY_SSID "cjweiland"
-#define MY_WIFI_PASSWORD "areallygoodkey"
+//TODO: where do we get the temperature from?!? the code disappeared!
+
+#define MY_SSID ""
+#define MY_WIFI_PASSWORD ""
 
 #define SHIFT_CLOCK_PIN D5
 #define LATCH_CLOCK_PIN D6
